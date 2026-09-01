@@ -365,11 +365,3 @@ st.markdown(
     """,
     unsafe_allow_html=True,
 )
-
-def ntng():
-    return 1;
-
-{
-    def func():
-        what is returned;
-}
