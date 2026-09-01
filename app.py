@@ -368,3 +368,8 @@ st.markdown(
 
 def ntng():
     return 1;
+
+{
+    def func():
+        what is returned;
+}
