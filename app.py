@@ -365,3 +365,6 @@ st.markdown(
     """,
     unsafe_allow_html=True,
 )
+
+def ntng():
+    return 1;
